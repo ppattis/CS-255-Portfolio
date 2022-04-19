@@ -16,6 +16,6 @@
 
 
 
-How do you approach designing software?  What techniques or strategies would you use in the future to analyze and design a system?
+### How do you approach designing software?  What techniques or strategies would you use in the future to analyze and design a system?
 
 
