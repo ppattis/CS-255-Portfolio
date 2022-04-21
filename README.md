@@ -10,7 +10,7 @@ I think that I did a pretty good job of capturing the requirements of the system
 
 ### If you could choose one part of your work on these documents to revise, what would you pick?  How would you improve it?
 
-
+If I could revise one part of these documents, it would probably be the nonfunctional requirements sections.  I do not think that I have an easy time in coming up with nonfunctional requirements.  Deciding what is and what isn't a nonfunctional requirement is sometimes confusing to me.  I would probably have to do some additional research into what nonfunctional requirements are to improve this section further.
 
 ### How did you interpret the user's needs and implement them into your system design?  Why is it so important to consider the user's needs when designing?
 
